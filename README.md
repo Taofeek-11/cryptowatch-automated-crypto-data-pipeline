@@ -23,8 +23,7 @@ and reports on live cryptocurrency data.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/cryptowatch.git
-cd cryptowatch
+git clone https://github.com/Taofeek-11/cryptowatch-automated-crypto-data-pipeline
 ```
 
 2. Install dependencies
