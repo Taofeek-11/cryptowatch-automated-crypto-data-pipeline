@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+websocket-client
+apscheduler
+schedule
+pandas
